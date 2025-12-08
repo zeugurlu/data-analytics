@@ -1,0 +1,9 @@
+Student,Study_Hours,Previous_Grade,Outcome
+A,High,Good,Pass
+B,Low,Poor,Fail
+C,Medium,Good,Pass
+D,Medium,Poor,Fail
+E,High,Good,Pass
+F,Low,Good,Fail
+G,High,Poor,Pass
+H,Medium,Poor,Fail
